@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "246199182548",
+    "project_id": "firestore-example-kmm",
+    "storage_bucket": "firestore-example-kmm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246199182548:android:3d95c9fa0f9c3993b34741",
+        "android_client_info": {
+          "package_name": "com.carlosgub.firestore.kmm.example"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEHT5-e--BLUTEXU0QRI7jOXBEAk1dGw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
